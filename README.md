@@ -1,3 +1,3 @@
-<h1> Ssitema de Registro</h1>
+<h1> Sitema de Registro</h1>
 
 -En construcción...
